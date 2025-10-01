@@ -1,0 +1,23 @@
+ID,NOMBRE,VALOR/MODELO,CANTIDAD,PROVEEDOR,PRECIO
+1,"Capacitores(C1,C3,C4,C5)","0,1uF",4,Digi-Key – KEMET C0603C104K5RACTU, $ 0.08 
+2,Capacitor(C2),22uF,1,Mouser – Murata GRM21BR61A226ME51L, $ 0.20 
+3,"Capacitores(C6,C8,C9)",0.1uF/50V(10%),3,Digi-Key – KEMET C0603C104K5RACTU, $ 0.08 
+4,"Capacitores(C7,C10)",10uf/10v(20%),2,Digi-Key – Murata GRM21BR61A106KE19L, $ 0.10 
+5,"Diodos(D1,D2,D3)",LESD5D5.0CT1G ,3,LCSC – LRC LESD5D5.0CT1G, $ 0.02 
+6,Diodos(D4),B5819W,1,Mouser – Diodes Inc. B5819W-7-F, $ 0.24 
+7,"LEDs(Led1,Led2)",LED-0603_R,2,Mouser – Kingbright APT1608SURCK, $ 0.20 
+8,"Resistencias(R1,R2)",10K?,2,Mouser – Yageo RC0603JR-070RL, $ 0.10 
+9,"Resistencias(R3,R13,R14)",0?,3,Mouser – Yageo RC0603FR-0710KL, $ 0.10 
+10,"Resistencias(R4,R5,R6,R15,R16)",10K?,5,Mouser – Yageo RC0603FR-0710KL, $ 0.10 
+11,"Resistencias(R7,R10)",1K?,2,Mouser – Yageo RC0603FR-071KL, $ 0.10 
+12,Resistencias(R8),"22,1K?",1,Digi-Key – Yageo RC0603FR-0722K1L, $ 0.10 
+13,Resistencias(R9),"47,5K?",1,Mouser – Yageo RC0603FR-0747K5L, $ 0.10 
+14,"Resistencias(R11,R12,R17)","5,1K?",3,Mouser – Yageo RC0603FR-075K1L, $ 0.10 
+15,"Switches(SW1,SW2)",PTS645SH43SMTR92LFSSW1,2,Mouser – C&K PTS645SH43SMTR92LFS, $ 0.35 
+16,ESP32(U5),WROOM-32E-N8,1,Mouser – Espressif ESP32-WROOM-32E-N8, $ 6.15 
+17,Entrada USB-C(USB1),USB4105-GF-A,1,Mouser – GCT USB4105-GF-A, $ 0.78 
+18,U1,SHT31A-DIS-B2.5KS,1,Mouser – Sensirion SHT31A-DIS-B2.5KS, $ 3.99 
+19,U4,AMS1117-3.3,1,Mouser – Onsemi NCP1117ST33T3G (equiv. AMS1117-3.3), $ 0.30 
+20,"Q1,Q2",SS8050-G,2,Mouser – MCC SS8050-G-TP, $ 0.12 
+21,QFN-28_L5.0-W5.0-P0.50-TL-EP3.3,CP2102N-A02-GQFN28RU3,1,Mouser – Silicon Labs CP2102N-A02-GQFN28R, $ 3.52 
+22,JP1,M04,1,Mouser – Würth 61300411121 (header M04), $ 0.17 
